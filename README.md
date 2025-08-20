@@ -29,7 +29,7 @@ You are not required to set each search provider up however, having more enabled
 ## Installation
 
 ```shell
-git clone https://github.com/member87/cam-finder/
+git clone https://github.com/trh4ckn0n/cam-finder
 cd cam-finder
 
 # install requirements
