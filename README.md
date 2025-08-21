@@ -39,7 +39,7 @@ pip install -r requirements.txt
 mv config-example.py config.py
 
 # run program
-python main.py
+python mainnn.py
 ```
 
 ## Default credentials
